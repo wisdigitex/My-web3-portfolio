@@ -1,8 +1,8 @@
 import { InlineCode } from "@/once-ui/components";
 
 const person = {
-  firstName: "Selene",
-  lastName: "Yu",
+  firstName: "Prime",
+  lastName: "Stack",
   get name() {
     return `${this.firstName} ${this.lastName}`;
   },
@@ -29,12 +29,12 @@ const social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/once-ui-system/nextjs-starter",
+    link: "https://github.com/wisdigitex",
   },
   {
     name: "LinkedIn",
     icon: "linkedin",
-    link: "https://www.linkedin.com/company/once-ui/",
+    link: "https://www.linkedin.com",
   },
   {
     name: "X",
@@ -55,8 +55,8 @@ const home = {
   headline: <>Design engineer and builder</>,
   subline: (
     <>
-      I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive
-      <br /> user experiences. After hours, I build my own projects.
+      We are PrimeStack Studio, a team of experts at, <InlineCode>FLY</InlineCode>specializing in Web3, AI, blockchain, and bot development.
+      <br /> Beyond work, we innovate and build cutting-edge solutions.
     </>
   ),
 };
@@ -81,9 +81,8 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
-        experiences, and the convergence of design and technology.
+        PrimeStack Studio is a Jakarta-based software development team passionate about solving complex challenges with Web3, AI, blockchain, and bot development. 
+        We specialize in dApps, smart contracts,Mev Bot,Crypto Trading Bot, interactive experiences, and cutting-edge technology solutions. 
       </>
     ),
   },
@@ -109,7 +108,7 @@ const about = {
           // optional: leave the array empty if you don't want to display images
           {
             src: "/images/projects/project-01/cover-01.jpg",
-            alt: "Once UI Project",
+            alt: "PrimeStack Studio Project",
             width: 16,
             height: 9,
           },
@@ -153,7 +152,7 @@ const about = {
     skills: [
       {
         title: "Figma",
-        description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
+        description: <>Able to prototype in Figma with PrimeStack Studio with unnatural speed.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
@@ -172,7 +171,7 @@ const about = {
       },
       {
         title: "Next.js",
-        description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
+        description: <>Building next gen apps with Next.js + PrimeStack Studio + Supabase.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {

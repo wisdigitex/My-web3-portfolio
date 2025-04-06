@@ -1,17 +1,17 @@
-# **Build your portfolio with Once UI's Magic Portfolio**
+# **Build your project with PrimeStack Studio's Magic Portfolio**
 
-View the [demo here](https://demo.magic-portfolio.com).
+View the [demo here](https://primestack.com).
 
 ![Magic Portfolio](public/images/cover.png)
 
 
 # **Getting started**
 
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+Portfolio was built with [PrimeStack Studio]() for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
 
 **1. Clone the repository**
 ```
-git clone https://github.com/once-ui-system/magic-portfolio.git
+git clone https://github.com/wisdigitex
 ```
 
 **2. Install dependencies**
@@ -41,8 +41,8 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 
 # **Features**
 
-## **Once UI**
-- All tokens, components & features of [Once UI](https://once-ui.com)
+## **PrimeStack Studio**
+- All tokens, components & features of [PrimeStack Studio]()
 
 ## **SEO**
 - Automatic open-graph and X image generation with next/og
@@ -51,7 +51,7 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 ## **Design**
 - Responsive layout optimized for all screen sizes
 - Timeless design without heavy animations and motion
-- Endless customization options through [data attributes](https://once-ui.com/docs/theming)
+- Endless customization options through [data attributes](https://primestack.com/docs/theming)
 
 ## **Content**
 - Render sections conditionally based on the content file
