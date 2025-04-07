@@ -32,14 +32,14 @@ const social = [
     link: "https://github.com/wisdigitex",
   },
   {
-    name: "LinkedIn",
-    icon: "linkedin",
-    link: "https://www.linkedin.com",
+    name: "Discord",
+    icon: "discord",
+    link: "https://discord.gg/RM9C4JDGJQ",
   },
   {
-    name: "X",
-    icon: "x",
-    link: "",
+    name: "Telegram",
+    icon: "telegram",
+    link: "https://t.me/PrimeStackStudios",
   },
   {
     name: "Email",
